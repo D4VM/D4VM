@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4VM
 - 👀 I’m interested in Python, Backend Developing
-- 🌱 I’m currently learning Python and Backend
+- 🌱 I’m currently learning Python, Django and Backend
 
 
 <!---
