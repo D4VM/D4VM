@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @D4VM
-- 👀 I’m interested in Python, Backend Developing
+- 👋 Hi, I’m @D4VM, IT Specialist
+- 👀 I’m interested in Python, Backend Developing, Home Servers/HomeLabs.
 - 🌱 I’m currently learning Python, Django and Backend
 
 
